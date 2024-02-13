@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Diego Núñez González](https://github.com/diego-dng/diego-dng/assets/18547419/535b7f41-56ee-46d7-9272-044cad480ccf)
 <!--
 **diego-dng/diego-dng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
