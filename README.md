@@ -1,4 +1,4 @@
-![Diego Núñez González](https://github.com/diego-dng/diego-dng/assets/18547419/535b7f41-56ee-46d7-9272-044cad480ccf)
+![Diego Núñez González  (1)](https://github.com/diego-dng/diego-dng/assets/18547419/9d947a4f-02db-486f-ad3b-1411c3879f19)
 <!--
 **diego-dng/diego-dng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
